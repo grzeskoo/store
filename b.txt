@@ -1,2 +1,3 @@
 dokuemnt testowy 2
 nowa linijka dodana teraz
+linijak
